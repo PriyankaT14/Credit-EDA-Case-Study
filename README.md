@@ -20,13 +20,13 @@ The data given contains two scenarios:
 
 When a client applies for a loan: four types of decisions could be taken:
 
-                       1.Approved
+         1.Approved
                        
-                       2.Cancelled
+         2.Cancelled
                        
-                       3.Refused
+         3.Refused
                        
-                       4.Unused offer
+         4.Unused offer
 
 ### Business Objectives
 
